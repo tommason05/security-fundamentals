@@ -29,7 +29,7 @@ It demonstrates my understanding of **ransomware threats, reconnaissance testing
 - Implemented **UFW firewall** rules to harden the system and mitigate risk  
 - Analysed insider threats and proposed defences such as MFA, DLP, and security awareness training  
 
-📎 [Download Tasks 2 & 3 Report (PDF)](./26040247_Coursework_1_Task_2_3_Security_Fundamentals_Thomas_Mason)
+📎 [Download Tasks 2 & 3 Report (PDF)](./26040247_Coursework_1_Task_2_3_Security_Fundamentals_Thomas_Mason.pdf)
 
 ---
 
